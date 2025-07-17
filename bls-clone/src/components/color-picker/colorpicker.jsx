@@ -11,7 +11,7 @@ function ColorPicker({ color, onChange }) {
     '#1abc9c', // Turquesa
     '#e67e22', // Naranja
     '#34495e', // Azul oscuro
-    '#ffffff', // Blanco
+    '#dc5bd1', // Blanco
     '#000000'  // Negro
   ];
 
